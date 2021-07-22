@@ -7,7 +7,7 @@ A simple [ROS] package that segments the input point cloud in order to remove th
 <img alt="Plane segmentation example" src="doc/segmented_plane.png" width="700">
 <img alt="Clusters example" src="doc/clustered_non_planar.png" width="700">
 <img alt="Markers example" src="doc/box_markers.png" width="700">
-<img alt="Obstacles msg" src="doc/obstacles_msg.png" width="700">
+<img alt="Obstacles msg" src="doc/obstacles_msg.png" width="262" height="862">
 
 ## Installation
 
