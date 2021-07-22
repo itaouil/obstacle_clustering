@@ -1,0 +1,4 @@
+geometry_msgs/Point centroid
+geometry_msgs/Point min_dimensions
+geometry_msgs/Point max_dimensions
+geometry_msgs/Quaternion orientation
